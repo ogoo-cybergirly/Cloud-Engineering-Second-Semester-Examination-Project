@@ -33,4 +33,4 @@ Live site: [http://ogocloudengineer.duckdns.org](http://ogocloudengineer.duckdns
 
 Contact: [cyberogochukwu@gmail.com](mailto:cyberogochukwu@gmail.com)
 
-![Screenshot](renderedpage.png)
+![Screenshot](renderedwebpage.png)
