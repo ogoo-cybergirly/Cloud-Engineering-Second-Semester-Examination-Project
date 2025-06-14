@@ -111,7 +111,7 @@ const server = http.createServer((req, res) => {
     </ul>
 
     <a href="mailto:cyberogochukwu@gmail.com" class="button">Email me let's talk</a>
-    <a href="https://www.linkedin.com/in/ogochukwu-asogwa-868219247/" class="button" target="_blank">Social Media</a>
+    <a href="https://www.linkedin.com/in/ogochukwu-asogwa-868219247/" class="button" target="_blank">LinkedIn</a>
   </div>
 </body>
 </html>
