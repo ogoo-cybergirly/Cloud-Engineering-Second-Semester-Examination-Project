@@ -23,12 +23,13 @@ Steps and procedures:
  Set up a custom subdomain on DuckDNS, updated its IP address to my AWS EC2 public IP address, the subdomain name is https://ogocloudengineer.duckdns.org/.
  Secured with Let's Encrypt SSL (Certbot).
 
-
+Challenges Encountered:
+Node.js is a foreground process, it took a lot of initiating and killing process, and research to figure out what tool to use in keeping it running in the background.
+Not the best creative person so it was even a  tougher battle to come up with colors that will look good on a webpage and still represent me efficiently. 
   
+
 Proof of Concept
-
 Live site: [http://ogocloudengineer.duckdns.org](http://ogocloudengineer.duckdns.org)
-
 Contact: [cyberogochukwu@gmail.com](mailto:cyberogochukwu@gmail.com)
 
 ![Screenshot](renderedpage.png)
